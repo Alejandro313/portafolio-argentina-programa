@@ -2,12 +2,12 @@
 
 ##  Frontend
 
-### Angular
+### ...
 
-Angular
+...
 
 ## Backend
 
-### Java
+### ...
 
-Java
+...
